@@ -1,0 +1,12 @@
+{
+    "image": "gitpod/workspace-full-vnc",
+
+    "portsAttributes": {
+        "5901": {
+            "label": "Server"
+        },
+        "6080": {
+            "label": "Desktop" 
+        }
+    }
+}
